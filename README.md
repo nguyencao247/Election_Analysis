@@ -6,7 +6,7 @@ The purpose of this election audit analysis is to certify the tabulated election
 
 ## Election-Audit Results
 
-### Election Results table from election_analysis.txt:
+### Election Results table from [election_analysis.txt](https://github.com/nguyencao247/Election_Analysis/blob/main/analysis/election_analysis.txt):
 <p align="center"><img src="Resources/election_analysis_table.PNG"></p>
 
 - How many votes were cast in this congressional election?
