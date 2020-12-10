@@ -55,8 +55,8 @@ win_county_count = 0
 win_county_percent = 0
 ```
 
-The variables are mutable; therefore, users can change them to fit their specific goal. Users can also create as many lists and dictionaries as they need to analyze the data in more detail. Where it says "county_options = []" and
-"county_votes = {}", these variables can be edited there. 
+The variables are mutable; therefore, users can change them to fit their specific goal. Users can also create as many lists and dictionaries as they need to analyze the data in more detail. Where it says **"county_options = []"** and
+**"county_votes = {}"**, these variables can be edited there. 
 
 
 ### Modification Examples
